@@ -32,7 +32,7 @@ This project predicts whether a customer will churn (leave the service) based on
 
 ## Key Results
 - **Model Performance**:
-  - Accuracy: *(Add value after running the code)*
+  - Accuracy: -
 
 - The model provides insights into customer churn behavior and helps in customer retention.
 
